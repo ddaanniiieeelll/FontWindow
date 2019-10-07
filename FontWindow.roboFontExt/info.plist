@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>nestInSubmenus</key>
+			<true/>
+			<key>path</key>
+			<string>fontWindow.py</string>
+			<key>preferredName</key>
+			<string>fontWindow</string>
+			<key>shortKey</key>
+			<array>
+				<integer>262144</integer>
+				<string>f</string>
+			</array>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>Daniel Weiand</string>
+	<key>developerURL</key>
+	<string></string>
+	<key>html</key>
+	<true/>
+	<key>launchAtStartUp</key>
+	<integer>0</integer>
+	<key>mainScript</key>
+	<string></string>
+	<key>name</key>
+	<string>FontWindow</string>
+	<key>timeStamp</key>
+	<real>1570454952.401536</real>
+	<key>version</key>
+	<string>0.9</string>
+</dict>
+</plist>
