@@ -6,5 +6,5 @@ Very useful when working on bigger families and if you have to manage limited sc
 ![fontWindow](/resources/fontWindow.gif) 
 
 ## v0.9
-• Use it with the shortcut ctrl + f
+• Use it with the shortcut ctrl + f  
 • The list is ordered by the OS/2 weight class, so make sure you have a value there ;)
